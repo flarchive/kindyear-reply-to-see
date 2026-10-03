@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of kindyear/reply-to-see.** Not for installation: use [Packagist](https://packagist.org/packages/kindyear/reply-to-see) or the [upstream repository](https://github.com/kindyear/flarum-ext-reply2see).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/kindyear-reply-to-see/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
+**4** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/kindyear-reply-to-see/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-03-17 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/kindyear-reply-to-see/tree/archive/v0.1.0) |
+| `0.1.1` | 2017-07-28 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/kindyear-reply-to-see/tree/archive/v0.1.1) |
+| `v0.1.2` | 2019-02-14 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kindyear-reply-to-see/tree/archive/v0.1.2) |
+| `v1.0.0` | 2021-06-27 | `^1.0.0` | [Browse](https://github.com/flarchive/kindyear-reply-to-see/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/kindyear-reply-to-see.json](https://github.com/flarchive/archive-index/blob/main/packages/kindyear-reply-to-see.json)
 
